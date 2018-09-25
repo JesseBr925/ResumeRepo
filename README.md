@@ -1,2 +1,8 @@
 # ResumeRepo
-Hello, welcome to Jesse Broussard's Sample Project Work.   Please feel free to navigate and view any and all projects attached.   Each will be foldered and labeled by heirarchical terms starting with language or framework the project deals with, with a readme file explaining the project's purpose.
+Hello, welcome to Jesse Broussard's Sample Project Work.   
+
+Please feel free to navigate, view, and evaluate any and all projects attached.
+
+This repository was created on 09/24/2018 to serve as a single place where I can place projects I completed through out my schooling, for resume validation.
+I expect increase the number of projects on here as I gather, document, and edit projects as I go through old works (time consuming).
+
